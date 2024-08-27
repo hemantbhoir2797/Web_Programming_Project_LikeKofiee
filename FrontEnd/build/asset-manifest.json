@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MiniProject_LikeKofiee/static/css/main.3c892e48.css",
+    "main.js": "/MiniProject_LikeKofiee/static/js/main.d4a99104.js",
+    "static/js/453.0ee132e4.chunk.js": "/MiniProject_LikeKofiee/static/js/453.0ee132e4.chunk.js",
+    "static/media/about-banner.png": "/MiniProject_LikeKofiee/static/media/about-banner.48f886ae02caf27d57c8.png",
+    "static/media/imag3.png": "/MiniProject_LikeKofiee/static/media/imag3.d495c37ad05b540e9678.png",
+    "static/media/mainbg.jpg": "/MiniProject_LikeKofiee/static/media/mainbg.f84358764c9b9eb75430.jpg",
+    "static/media/imag1.jpg": "/MiniProject_LikeKofiee/static/media/imag1.fc043d86a3e834d212df.jpg",
+    "static/media/menu-1.jpg": "/MiniProject_LikeKofiee/static/media/menu-1.1738b9429d091207744e.jpg",
+    "static/media/imag2.jpg": "/MiniProject_LikeKofiee/static/media/imag2.19b68b5f04801c55ab63.jpg",
+    "static/media/menu-3.jpg": "/MiniProject_LikeKofiee/static/media/menu-3.2040737b217cde4f0ac1.jpg",
+    "static/media/trash-2935441_1281.png": "/MiniProject_LikeKofiee/static/media/trash-2935441_1281.f1aa13eed4a9b0b290a2.png",
+    "static/media/menu-2.jpg": "/MiniProject_LikeKofiee/static/media/menu-2.346ab6f8d03226da596e.jpg",
+    "index.html": "/MiniProject_LikeKofiee/index.html",
+    "main.3c892e48.css.map": "/MiniProject_LikeKofiee/static/css/main.3c892e48.css.map",
+    "main.d4a99104.js.map": "/MiniProject_LikeKofiee/static/js/main.d4a99104.js.map",
+    "453.0ee132e4.chunk.js.map": "/MiniProject_LikeKofiee/static/js/453.0ee132e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c892e48.css",
+    "static/js/main.d4a99104.js"
+  ]
+}

@@ -1,0 +1,87 @@
+[
+    {
+        "CategoryName": "Dark",
+        "name": "Americano",
+        "img": "https://www.nescafe.com/in/sites/default/files/2022-06/americano-thumbnail-desktop.jpg",
+        "options": [
+            {
+                "Hot": "130",
+                "Cold": "220"
+            }
+        ],
+        "description": "he americano is often mistaken for just a standard black coffee, but it's so much more than that."
+    },
+    {
+        "CategoryName": "Dark",
+        "name": "Cortado",
+        "img": "https://www.nescafe.com/in/sites/default/files/2022-06/cortado-thumbnail-desktop.jpg",
+        "options": [
+            {
+                "Hot": "110",
+                "Cold": "200"
+            }
+        ],
+        "description": "The cortado is relatively new in the world of coffee and many get it confused with a flat white"
+    },
+    {
+        "CategoryName": "Dark",
+        "name": "Mocha",
+        "img": "https://www.nescafe.com/in/sites/default/files/2022-06/mocha-thumbnail-desktop.jpg",
+        "options": [
+            {
+                "Hot": "200",
+                "Cold": "320"
+            }
+        ],
+        "description": "Deliciously sweet, nutty and chocolatey"
+    },
+    {
+        "CategoryName": "Dark",
+        "name": "Macchiato",
+        "img": "https://www.nescafe.com/in/sites/default/files/2022-06/macchiato-thumbnail-desktop.jpg",
+        "options": [
+            {
+                "Hot": "170",
+                "Cold": "300"
+            }
+        ],
+        "description": "An espresso coffee drink, topped with a small amount of foamed milk to enable the espresso taste to shine through."
+    },
+    {
+        "CategoryName": "Light Roast",
+        "name": "Drip Coffee",
+        "img": "https://www.nescafe.com/in/sites/default/files/2022-06/what-is-drip-coffee-thumbnail-desktop.jpg",
+        "options": [
+            {
+                "Hot": "150",
+                "Cold": "260"
+            }
+        ],
+        "description": "Drip coffee is one of the most popular ways to prepare and enjoy coffee"
+    },
+    {
+        "CategoryName": "Light Roast",
+        "name": "Flat White",
+        "img": "https://www.nescafe.com/in/sites/default/files/2022-06/flat-white-thumbnail-desktop.jpg",
+        "options": [
+            {
+                "Hot": "120",
+                "Cold": "220"
+            }
+        ],
+        "description": "A newcomer in the coffee world that is increasing popular"
+    },
+    {
+        "CategoryName": "Light Roast",
+        "name": "Irish Coffee",
+        "img": "https://www.nescafe.com/in/sites/default/files/2022-06/k4_0.jpg",
+        "options": [
+            {
+                "Hot": "120",
+                "Cold": "200"
+            }
+        ],
+        "description": "You will recognise an Irish coffee as it is served in a distinctive toddy glass, with a generous layer of cream."
+    }
+    
+]
